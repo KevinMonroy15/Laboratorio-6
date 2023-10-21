@@ -1,0 +1,92 @@
+html{
+    background-color: lightcoral;
+}
+#navbar{
+    background-color:cyan;
+    display: flex;
+    height: 100px;
+}
+.titulo-navbar{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 50px;
+    font-weight: 1000;
+    text-decoration: none;
+    color: gray;
+}
+.titulo-navbar:hover{
+    color: black;
+}
+.links{
+    margin-top: 15px;
+    padding: 10px;
+    margin-left: 10%;
+}
+.url1{
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+    background-color: lightgray;
+    border-radius: 10px;
+    padding: 10px;
+    font-weight: 800;
+}
+.url1:hover{
+    background-color: gray;
+    color: black;
+}
+.url2{
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+    background-color: lightgray;
+    border-radius: 10px;
+    padding: 10px;
+    font-weight: 800;
+    margin-left: 5%;
+}
+.url2:hover{
+    background-color: gray;
+    color: black;
+}
+.url3{
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+    background-color: lightgray;
+    border-radius: 10px;
+    padding: 10px;
+    font-weight: 800;
+    margin-left: 5%;
+}
+.url3:hover{
+    background-color: gray;
+    color: black;
+}
+#fila1{
+    background-color: lightcoral;
+}
+.textobig{
+    display: inline-block;
+}
+.imgbig{
+    display: inline-block;
+}
+.fila2{
+    text-align: center;
+}
+#carouselExampleIndicators{
+   max-width: 500px;
+    max-height: 500px;
+}
+.IMGFUTBOL{
+    height: 400px;
+    width: 500px;
+}
+.card-img-top{
+    height: 200px;
+}
+.card{
+    margin-left: 20%;
+    margin-top: 10%;
+}
